@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SistemaCerrajeria" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SistemaCerrajeria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SistemaCerrajeria" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/ClienteArchivo.h" />
+		<Unit filename="include/ClienteManager.h" />
+		<Unit filename="include/Compra.h" />
+		<Unit filename="include/CompraArchivo.h" />
+		<Unit filename="include/CompraDetalle.h" />
+		<Unit filename="include/CompraDetalleArchivo.h" />
+		<Unit filename="include/CompraManager.h" />
+		<Unit filename="include/Empleado.h" />
+		<Unit filename="include/EmpleadoArchivo.h" />
+		<Unit filename="include/EmpleadoManager.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/InformeManager.h" />
+		<Unit filename="include/MenuCliente.h" />
+		<Unit filename="include/MenuCompra.h" />
+		<Unit filename="include/MenuEmpleado.h" />
+		<Unit filename="include/MenuInforme.h" />
+		<Unit filename="include/MenuPrincipal.h" />
+		<Unit filename="include/MenuProducto.h" />
+		<Unit filename="include/MenuProveedor.h" />
+		<Unit filename="include/MenuServicio.h" />
+		<Unit filename="include/MenuVenta.h" />
+		<Unit filename="include/Producto.h" />
+		<Unit filename="include/ProductoArchivo.h" />
+		<Unit filename="include/ProductoManager.h" />
+		<Unit filename="include/Proveedor.h" />
+		<Unit filename="include/ProveedorArchivo.h" />
+		<Unit filename="include/ProveedorManager.h" />
+		<Unit filename="include/Servicio.h" />
+		<Unit filename="include/ServicioArchivo.h" />
+		<Unit filename="include/ServicioManager.h" />
+		<Unit filename="include/Utilidades.h" />
+		<Unit filename="include/Venta.h" />
+		<Unit filename="include/VentaArchivo.h" />
+		<Unit filename="include/VentaDetalle.h" />
+		<Unit filename="include/VentaDetalleArchivo.h" />
+		<Unit filename="include/VentaManager.h" />
+		<Unit filename="include/VentaServicio.h" />
+		<Unit filename="include/VentaServicioArchivo.h" />
+		<Unit filename="include/rlutil.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/ClienteArchivo.cpp" />
+		<Unit filename="src/ClienteManager.cpp" />
+		<Unit filename="src/Compra.cpp" />
+		<Unit filename="src/CompraArchivo.cpp" />
+		<Unit filename="src/CompraDetalle.cpp" />
+		<Unit filename="src/CompraDetalleArchivo.cpp" />
+		<Unit filename="src/CompraManager.cpp" />
+		<Unit filename="src/Empleado.cpp" />
+		<Unit filename="src/EmpleadoArchivo.cpp" />
+		<Unit filename="src/EmpleadoManager.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/InformeManager.cpp" />
+		<Unit filename="src/MenuCliente.cpp" />
+		<Unit filename="src/MenuCompra.cpp" />
+		<Unit filename="src/MenuEmpleado.cpp" />
+		<Unit filename="src/MenuInforme.cpp" />
+		<Unit filename="src/MenuPrincipal.cpp" />
+		<Unit filename="src/MenuProducto.cpp" />
+		<Unit filename="src/MenuProveedor.cpp" />
+		<Unit filename="src/MenuServicio.cpp" />
+		<Unit filename="src/MenuVenta.cpp" />
+		<Unit filename="src/Producto.cpp" />
+		<Unit filename="src/ProductoArchivo.cpp" />
+		<Unit filename="src/ProductoManager.cpp" />
+		<Unit filename="src/Proveedor.cpp" />
+		<Unit filename="src/ProveedorArchivo.cpp" />
+		<Unit filename="src/ProveedorManager.cpp" />
+		<Unit filename="src/Servicio.cpp" />
+		<Unit filename="src/ServicioArchivo.cpp" />
+		<Unit filename="src/ServicioManager.cpp" />
+		<Unit filename="src/Utilidades.cpp" />
+		<Unit filename="src/Venta.cpp" />
+		<Unit filename="src/VentaArchivo.cpp" />
+		<Unit filename="src/VentaDetalle.cpp" />
+		<Unit filename="src/VentaDetalleArchivo.cpp" />
+		<Unit filename="src/VentaManager.cpp" />
+		<Unit filename="src/VentaServicio.cpp" />
+		<Unit filename="src/VentaServicioArchivo.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

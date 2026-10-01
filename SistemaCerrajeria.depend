@@ -1,0 +1,2104 @@
+# depslib dependency file v1.0
+1782815655 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuprincipal.h
+	"MenuProducto.h"
+	"MenuProveedor.h"
+	"MenuCliente.h"
+	"MenuEmpleado.h"
+	"MenuCompra.h"
+	"MenuServicio.h"
+	"MenuVenta.h"
+	"MenuInforme.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuproducto.h
+	"ProductoManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\productomanager.h
+	"ProductoArchivo.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\producto.h
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuproveedor.h
+	"ProveedorManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedormanager.h
+	"ProveedorArchivo.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedorarchivo.h
+	<string>
+	"Proveedor.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedor.h
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menucliente.h
+	"ClienteManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\clientemanager.h
+	"ClienteArchivo.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\cliente.h
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuempleado.h
+	"EmpleadoManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleadomanager.h
+	"EmpleadoArchivo.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleadoarchivo.h
+	<string>
+	"Empleado.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleado.h
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\fecha.h
+	<string>
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menucompra.h
+	"CompraManager.h"
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compramanager.h
+	"CompraArchivo.h"
+	"CompraDetalleArchivo.h"
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compraarchivo.h
+	<string>
+	"Compra.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compra.h
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compradetallearchivo.h
+	<string>
+	"CompraDetalle.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compradetalle.h
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuservicio.h
+	"ServicioManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\serviciomanager.h
+	"ServicioArchivo.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\servicioarchivo.h
+	<string>
+	"Servicio.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\servicio.h
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuventa.h
+	"VentaManager.h"
+
+1782815656 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventamanager.h
+	"VentaArchivo.h"
+	"VentaDetalleArchivo.h"
+	"VentaServicioArchivo.h"
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\venta.h
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventadetallearchivo.h
+	<string>
+	"VentaDetalle.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventadetalle.h
+
+1782815656 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaservicioarchivo.h
+	<string>
+	"VentaServicio.h"
+
+1782815656 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaservicio.h
+	"Fecha.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuinforme.h
+	"InformeManager.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\informemanager.h
+	"CompraArchivo.h"
+	"VentaArchivo.h"
+	"VentaServicioArchivo.h"
+	"ServicioArchivo.h"
+	"Fecha.h"
+
+1782817097 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\cliente.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\clientearchivo.cpp
+	"ClienteArchivo.h"
+	<cstdio>
+
+1782817097 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\clientemanager.cpp
+	<iostream>
+	<cstring>
+	"ClienteManager.h"
+	"rlutil.h"
+	"MenuCliente.h"
+	"Utilidades.h"
+
+1782815655 d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\utilidades.h
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compra.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Compra.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compraarchivo.cpp
+	"CompraArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compradetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"CompraDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compradetallearchivo.cpp
+	"CompraDetalleArchivo.h"
+	<cstdio>
+
+1782817602 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compramanager.cpp
+	<iostream>
+	<cstring>
+	"CompraManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"ProductoArchivo.h"
+	"Proveedor.h"
+	"Empleado.h"
+
+1782818922 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleado.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Empleado.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleadoarchivo.cpp
+	"EmpleadoArchivo.h"
+	<cstdio>
+
+1782819320 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleadomanager.cpp
+	<iostream>
+	"EmpleadoManager.h"
+	"rlutil.h"
+	"MenuEmpleado.h"
+	"Utilidades.h"
+
+1782818312 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\fecha.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<limits>
+	"fecha.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\informemanager.cpp
+	<iostream>
+	"InformeManager.h"
+	"rlutil.h"
+
+1782818635 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menucliente.cpp
+	<iostream>
+	"MenuCliente.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782817430 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menucompra.cpp
+	<iostream>
+	"MenuCompra.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782818635 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuempleado.cpp
+	<iostream>
+	"MenuEmpleado.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816005 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuinforme.cpp
+	<iostream>
+	"MenuInforme.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816265 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816265 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuproducto.cpp
+	<iostream>
+	"MenuProducto.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816265 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuproveedor.cpp
+	<iostream>
+	"MenuProveedor.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816265 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782816265 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuventa.cpp
+	<iostream>
+	"MenuVenta.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\producto.cpp
+	<cstring>
+	<iostream>
+	<limits>
+	"Producto.h"
+	"rlutil.h"
+	<iomanip>
+	<sstream>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"ProveedorManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedormanager.cpp
+	<iostream>
+	<cstring>
+	"ProveedorManager.h"
+	"rlutil.h"
+	"MenuProveedor.h"
+	"Utilidades.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\servicio.cpp
+	"Servicio.h"
+	"ProductoArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\servicioarchivo.cpp
+	"ServicioArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\serviciomanager.cpp
+	<iostream>
+	<cstring>
+	"ServicioManager.h"
+	"rlutil.h"
+	"MenuServicio.h"
+	"Utilidades.h"
+	<algorithm>
+	"ServicioManager.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\utilidades.cpp
+	<iostream>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\venta.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Venta.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaarchivo.cpp
+	"VentaArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventadetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventadetallearchivo.cpp
+	"VentaDetalleArchivo.h"
+	<cstdio>
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventamanager.cpp
+	<iostream>
+	<cstring>
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"MenuVenta.h"
+	"utilidades.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaservicio.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaServicio.h"
+	"ServicioArchivo.h"
+	"rlutil.h"
+
+1782815656 source:d:\utn franco\cuatrimestre 2\programacion\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaservicioarchivo.cpp
+	"VentaServicioArchivo.h"
+	<cstdio>
+
+1782824255 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuprincipal.h
+	"MenuProducto.h"
+	"MenuProveedor.h"
+	"MenuCliente.h"
+	"MenuEmpleado.h"
+	"MenuCompra.h"
+	"MenuServicio.h"
+	"MenuVenta.h"
+	"MenuInforme.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuproducto.h
+	"ProductoManager.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\productomanager.h
+	"ProductoArchivo.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\producto.h
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuproveedor.h
+	"ProveedorManager.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedormanager.h
+	"ProveedorArchivo.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedorarchivo.h
+	<string>
+	"Proveedor.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\proveedor.h
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menucliente.h
+	"ClienteManager.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\clientemanager.h
+	"ClienteArchivo.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\cliente.h
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuempleado.h
+	"EmpleadoManager.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleadomanager.h
+	"EmpleadoArchivo.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleadoarchivo.h
+	<string>
+	"Empleado.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\empleado.h
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\fecha.h
+	<string>
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menucompra.h
+	"CompraManager.h"
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compramanager.h
+	"CompraArchivo.h"
+	"CompraDetalleArchivo.h"
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compraarchivo.h
+	<string>
+	"Compra.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compra.h
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compradetallearchivo.h
+	<string>
+	"CompraDetalle.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\compradetalle.h
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuservicio.h
+	"ServicioManager.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\serviciomanager.h
+	"ServicioArchivo.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\servicioarchivo.h
+	<string>
+	"Servicio.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\servicio.h
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuventa.h
+	"VentaManager.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventamanager.h
+	"VentaArchivo.h"
+	"VentaDetalleArchivo.h"
+	"VentaServicioArchivo.h"
+	"Fecha.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\venta.h
+	"Fecha.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventadetallearchivo.h
+	<string>
+	"VentaDetalle.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventadetalle.h
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaservicioarchivo.h
+	<string>
+	"VentaServicio.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\ventaservicio.h
+	"Fecha.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\menuinforme.h
+	"InformeManager.h"
+
+1782824255 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\informemanager.h
+	"CompraArchivo.h"
+	"VentaArchivo.h"
+	"VentaServicioArchivo.h"
+	"ServicioArchivo.h"
+	"Fecha.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\cliente.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\clientearchivo.cpp
+	"ClienteArchivo.h"
+	<cstdio>
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\clientemanager.cpp
+	<iostream>
+	<cstring>
+	"ClienteManager.h"
+	"rlutil.h"
+	"MenuCliente.h"
+	"Utilidades.h"
+
+1782824256 c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\include\utilidades.h
+
+1782841313 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compra.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Compra.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compraarchivo.cpp
+	"CompraArchivo.h"
+	<cstdio>
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compradetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"CompraDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compradetallearchivo.cpp
+	"CompraDetalleArchivo.h"
+	<cstdio>
+
+1782841314 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\compramanager.cpp
+	<iostream>
+	<cstring>
+	"CompraManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"ProductoArchivo.h"
+	"Proveedor.h"
+	"Empleado.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleado.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Empleado.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleadoarchivo.cpp
+	"EmpleadoArchivo.h"
+	<cstdio>
+
+1782828845 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\empleadomanager.cpp
+	<iostream>
+	"EmpleadoManager.h"
+	"rlutil.h"
+	"MenuEmpleado.h"
+	"Utilidades.h"
+
+1782824256 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\fecha.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<limits>
+	"fecha.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\informemanager.cpp
+	<iostream>
+	"InformeManager.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menucliente.cpp
+	<iostream>
+	"MenuCliente.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menucompra.cpp
+	<iostream>
+	"MenuCompra.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuempleado.cpp
+	<iostream>
+	"MenuEmpleado.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuinforme.cpp
+	<iostream>
+	"MenuInforme.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuproducto.cpp
+	<iostream>
+	"MenuProducto.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuproveedor.cpp
+	<iostream>
+	"MenuProveedor.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782845980 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\menuventa.cpp
+	<iostream>
+	"MenuVenta.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782845870 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\producto.cpp
+	<cstring>
+	<iostream>
+	<limits>
+	"Producto.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	<iomanip>
+	<sstream>
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	<cstdio>
+
+1782829144 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+	<cstdio>
+
+1782829458 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\proveedormanager.cpp
+	<iostream>
+	<cstring>
+	"ProveedorManager.h"
+	"rlutil.h"
+	"MenuProveedor.h"
+	"Utilidades.h"
+
+1782845498 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\servicio.cpp
+	"Servicio.h"
+	"ProductoArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\servicioarchivo.cpp
+	"ServicioArchivo.h"
+	<cstdio>
+
+1782845498 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\serviciomanager.cpp
+	<iostream>
+	<cstring>
+	"ServicioManager.h"
+	"rlutil.h"
+	"MenuServicio.h"
+	"Utilidades.h"
+	<algorithm>
+	"ServicioManager.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\utilidades.cpp
+	<iostream>
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\venta.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Venta.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaarchivo.cpp
+	"VentaArchivo.h"
+	<cstdio>
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventadetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventadetallearchivo.cpp
+	"VentaDetalleArchivo.h"
+	<cstdio>
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventamanager.cpp
+	<iostream>
+	<cstring>
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"MenuVenta.h"
+	"utilidades.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaservicio.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaServicio.h"
+	"ServicioArchivo.h"
+	"rlutil.h"
+
+1782824257 source:c:\utn franco\cuatrimestre 3\programacion 2\version final\version juan\sistemacerrajeriafinal_v2\sistemacerrajeriafinal_v1\sistemacerrajeriav3\src\ventaservicioarchivo.cpp
+	"VentaServicioArchivo.h"
+	<cstdio>
+
+1782859547 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuprincipal.h
+	"MenuProducto.h"
+	"MenuProveedor.h"
+	"MenuCliente.h"
+	"MenuEmpleado.h"
+	"MenuCompra.h"
+	"MenuServicio.h"
+	"MenuVenta.h"
+	"MenuInforme.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuproducto.h
+	"ProductoManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\productomanager.h
+	"ProductoArchivo.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\producto.h
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuproveedor.h
+	"ProveedorManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\proveedormanager.h
+	"ProveedorArchivo.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\proveedorarchivo.h
+	<string>
+	"Proveedor.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\proveedor.h
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menucliente.h
+	"ClienteManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\clientemanager.h
+	"ClienteArchivo.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\cliente.h
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuempleado.h
+	"EmpleadoManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\empleadomanager.h
+	"EmpleadoArchivo.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\empleadoarchivo.h
+	<string>
+	"Empleado.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\empleado.h
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\fecha.h
+	<string>
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menucompra.h
+	"CompraManager.h"
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\compramanager.h
+	"CompraArchivo.h"
+	"CompraDetalleArchivo.h"
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\compraarchivo.h
+	<string>
+	"Compra.h"
+
+1782861122 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\compra.h
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\compradetallearchivo.h
+	<string>
+	"CompraDetalle.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\compradetalle.h
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuservicio.h
+	"ServicioManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\serviciomanager.h
+	"ServicioArchivo.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\servicioarchivo.h
+	<string>
+	"Servicio.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\servicio.h
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuventa.h
+	"VentaManager.h"
+
+1782863374 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventamanager.h
+	"VentaArchivo.h"
+	"VentaDetalleArchivo.h"
+	"VentaServicioArchivo.h"
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1782864205 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\venta.h
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventadetallearchivo.h
+	<string>
+	"VentaDetalle.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventadetalle.h
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventaservicioarchivo.h
+	<string>
+	"VentaServicio.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\ventaservicio.h
+	"Fecha.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\menuinforme.h
+	"InformeManager.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\informemanager.h
+	"CompraArchivo.h"
+	"VentaArchivo.h"
+	"VentaServicioArchivo.h"
+	"ServicioArchivo.h"
+	"Fecha.h"
+
+1782863057 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\compramanager.cpp
+	<iostream>
+	<cstring>
+	"CompraManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"ProductoArchivo.h"
+	"Proveedor.h"
+	"Empleado.h"
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1782859547 d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\include\utilidades.h
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\empleado.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Empleado.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\empleadoarchivo.cpp
+	"EmpleadoArchivo.h"
+	<cstdio>
+
+1782863057 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\empleadomanager.cpp
+	<iostream>
+	"EmpleadoManager.h"
+	"rlutil.h"
+	"MenuEmpleado.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\fecha.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<limits>
+	"fecha.h"
+	"rlutil.h"
+
+1782867770 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\informemanager.cpp
+	<iostream>
+	"InformeManager.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menucliente.cpp
+	<iostream>
+	"MenuCliente.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782861783 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menucompra.cpp
+	<iostream>
+	"MenuCompra.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuempleado.cpp
+	<iostream>
+	"MenuEmpleado.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782868136 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuinforme.cpp
+	<iostream>
+	"MenuInforme.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782864760 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuproducto.cpp
+	<iostream>
+	"MenuProducto.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782864760 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuproveedor.cpp
+	<iostream>
+	"MenuProveedor.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782864680 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782866413 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\menuventa.cpp
+	<iostream>
+	"MenuVenta.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\producto.cpp
+	<cstring>
+	<iostream>
+	<limits>
+	"Producto.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	<iomanip>
+	<sstream>
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	<cstdio>
+
+1782863057 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+	<cstdio>
+
+1782863057 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\proveedormanager.cpp
+	<iostream>
+	<cstring>
+	"ProveedorManager.h"
+	"rlutil.h"
+	"MenuProveedor.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\servicio.cpp
+	"Servicio.h"
+	"ProductoArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	<sstream>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\servicioarchivo.cpp
+	"ServicioArchivo.h"
+	<cstdio>
+
+1782863057 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\serviciomanager.cpp
+	<iostream>
+	<cstring>
+	"ServicioManager.h"
+	"rlutil.h"
+	"MenuServicio.h"
+	"Utilidades.h"
+	<algorithm>
+	"ServicioManager.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\utilidades.cpp
+	<iostream>
+
+1782864553 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\venta.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Venta.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventaarchivo.cpp
+	"VentaArchivo.h"
+	<cstdio>
+
+1782865922 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventadetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventadetallearchivo.cpp
+	"VentaDetalleArchivo.h"
+	<cstdio>
+
+1782867354 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventamanager.cpp
+	<iostream>
+	<cstring>
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"MenuVenta.h"
+	"utilidades.h"
+
+1782867354 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventaservicio.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaServicio.h"
+	"ServicioArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\ventaservicioarchivo.cpp
+	"VentaServicioArchivo.h"
+	<cstdio>
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\cliente.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\clientearchivo.cpp
+	"ClienteArchivo.h"
+	<cstdio>
+
+1782862874 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\clientemanager.cpp
+	<iostream>
+	<cstring>
+	"ClienteManager.h"
+	"rlutil.h"
+	"MenuCliente.h"
+	"Utilidades.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\compraarchivo.cpp
+	"CompraArchivo.h"
+	<cstdio>
+
+1782862144 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\compradetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"CompraDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782859548 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\compradetallearchivo.cpp
+	"CompraDetalleArchivo.h"
+	<cstdio>
+
+1782861280 source:d:\utn franco\cuatrimestre 2\programacion\version final\sistemacerrajeriav3\src\compra.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Compra.h"
+	"ProveedorArchivo.h"
+	"ProveedorManager.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782873625 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuprincipal.h
+	"MenuProducto.h"
+	"MenuProveedor.h"
+	"MenuCliente.h"
+	"MenuEmpleado.h"
+	"MenuCompra.h"
+	"MenuServicio.h"
+	"MenuVenta.h"
+	"MenuInforme.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuproducto.h
+	"ProductoManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\productomanager.h
+	"ProductoArchivo.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\producto.h
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuproveedor.h
+	"ProveedorManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\proveedormanager.h
+	"ProveedorArchivo.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\proveedorarchivo.h
+	<string>
+	"Proveedor.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\proveedor.h
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menucliente.h
+	"ClienteManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\clientemanager.h
+	"ClienteArchivo.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\cliente.h
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuempleado.h
+	"EmpleadoManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\empleadomanager.h
+	"EmpleadoArchivo.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\empleadoarchivo.h
+	<string>
+	"Empleado.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\empleado.h
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\fecha.h
+	<string>
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menucompra.h
+	"CompraManager.h"
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\compramanager.h
+	"CompraArchivo.h"
+	"CompraDetalleArchivo.h"
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\compraarchivo.h
+	<string>
+	"Compra.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\compra.h
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\compradetallearchivo.h
+	<string>
+	"CompraDetalle.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\compradetalle.h
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuservicio.h
+	"ServicioManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\serviciomanager.h
+	"ServicioArchivo.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\servicioarchivo.h
+	<string>
+	"Servicio.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\servicio.h
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuventa.h
+	"VentaManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventamanager.h
+	"VentaArchivo.h"
+	"VentaDetalleArchivo.h"
+	"VentaServicioArchivo.h"
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\venta.h
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventadetallearchivo.h
+	<string>
+	"VentaDetalle.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventadetalle.h
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventaservicioarchivo.h
+	<string>
+	"VentaServicio.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\ventaservicio.h
+	"Fecha.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\menuinforme.h
+	"InformeManager.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\informemanager.h
+	"CompraArchivo.h"
+	"VentaArchivo.h"
+	"VentaServicioArchivo.h"
+	"ServicioArchivo.h"
+	"Fecha.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\cliente.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\clientearchivo.cpp
+	"ClienteArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\clientemanager.cpp
+	<iostream>
+	<cstring>
+	"ClienteManager.h"
+	"rlutil.h"
+	"MenuCliente.h"
+	"Utilidades.h"
+
+1782873625 c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\include\utilidades.h
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\compra.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Compra.h"
+	"ProveedorArchivo.h"
+	"ProveedorManager.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\compraarchivo.cpp
+	"CompraArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\compradetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"CompraDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\compradetallearchivo.cpp
+	"CompraDetalleArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\compramanager.cpp
+	<iostream>
+	<cstring>
+	"CompraManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"ProductoArchivo.h"
+	"Proveedor.h"
+	"Empleado.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\empleado.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Empleado.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\empleadoarchivo.cpp
+	"EmpleadoArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\empleadomanager.cpp
+	<iostream>
+	"EmpleadoManager.h"
+	"rlutil.h"
+	"MenuEmpleado.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\fecha.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<limits>
+	"fecha.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\informemanager.cpp
+	<iostream>
+	"InformeManager.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menucliente.cpp
+	<iostream>
+	"MenuCliente.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menucompra.cpp
+	<iostream>
+	"MenuCompra.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuempleado.cpp
+	<iostream>
+	"MenuEmpleado.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuproducto.cpp
+	<iostream>
+	"MenuProducto.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuproveedor.cpp
+	<iostream>
+	"MenuProveedor.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuventa.cpp
+	<iostream>
+	"MenuVenta.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\producto.cpp
+	<cstring>
+	<iostream>
+	<limits>
+	"Producto.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	<iomanip>
+	<sstream>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\proveedormanager.cpp
+	<iostream>
+	<cstring>
+	"ProveedorManager.h"
+	"rlutil.h"
+	"MenuProveedor.h"
+	"Utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\servicio.cpp
+	"Servicio.h"
+	"ProductoArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	<sstream>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\servicioarchivo.cpp
+	"ServicioArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\serviciomanager.cpp
+	<iostream>
+	<cstring>
+	"ServicioManager.h"
+	"rlutil.h"
+	"MenuServicio.h"
+	"Utilidades.h"
+	<algorithm>
+	"ServicioManager.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\utilidades.cpp
+	<iostream>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\venta.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Venta.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventaarchivo.cpp
+	"VentaArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventadetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventadetallearchivo.cpp
+	"VentaDetalleArchivo.h"
+	<cstdio>
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventamanager.cpp
+	<iostream>
+	<cstring>
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"MenuVenta.h"
+	"utilidades.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventaservicio.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaServicio.h"
+	"ServicioArchivo.h"
+	"rlutil.h"
+
+1782873626 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\ventaservicioarchivo.cpp
+	"VentaServicioArchivo.h"
+	<cstdio>
+
+1782873880 source:c:\utn franco\cuatrimestre 3\programacion 2\cerrajeria final\sistemacerrajeriav3\src\menuinforme.cpp
+	<iostream>
+	"MenuInforme.h"
+	"EmpleadoArchivo.h"
+	"ClienteArchivo.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875172 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\main.cpp
+	<iostream>
+	"MenuPrincipal.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuprincipal.h
+	"MenuProducto.h"
+	"MenuProveedor.h"
+	"MenuCliente.h"
+	"MenuEmpleado.h"
+	"MenuCompra.h"
+	"MenuServicio.h"
+	"MenuVenta.h"
+	"MenuInforme.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuproducto.h
+	"ProductoManager.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\productomanager.h
+	"ProductoArchivo.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\productoarchivo.h
+	<string>
+	"Producto.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\producto.h
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuproveedor.h
+	"ProveedorManager.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\proveedormanager.h
+	"ProveedorArchivo.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\proveedorarchivo.h
+	<string>
+	"Proveedor.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\proveedor.h
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menucliente.h
+	"ClienteManager.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\clientemanager.h
+	"ClienteArchivo.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\clientearchivo.h
+	<string>
+	"Cliente.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\cliente.h
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuempleado.h
+	"EmpleadoManager.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\empleadomanager.h
+	"EmpleadoArchivo.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\empleadoarchivo.h
+	<string>
+	"Empleado.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\empleado.h
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\fecha.h
+	<string>
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menucompra.h
+	"CompraManager.h"
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\compramanager.h
+	"CompraArchivo.h"
+	"CompraDetalleArchivo.h"
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\compraarchivo.h
+	<string>
+	"Compra.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\compra.h
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\compradetallearchivo.h
+	<string>
+	"CompraDetalle.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\compradetalle.h
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuservicio.h
+	"ServicioManager.h"
+
+1782882731 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\serviciomanager.h
+	"ServicioArchivo.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\servicioarchivo.h
+	<string>
+	"Servicio.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\servicio.h
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuventa.h
+	"VentaManager.h"
+
+1782875173 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventamanager.h
+	"VentaArchivo.h"
+	"VentaDetalleArchivo.h"
+	"VentaServicioArchivo.h"
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\venta.h
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventadetallearchivo.h
+	<string>
+	"VentaDetalle.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventadetalle.h
+
+1782875173 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventaservicioarchivo.h
+	<string>
+	"VentaServicio.h"
+
+1782875173 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\ventaservicio.h
+	"Fecha.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\menuinforme.h
+	"InformeManager.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\informemanager.h
+	"CompraArchivo.h"
+	"VentaArchivo.h"
+	"VentaServicioArchivo.h"
+	"ServicioArchivo.h"
+	"Fecha.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\cliente.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Cliente.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\clientearchivo.cpp
+	"ClienteArchivo.h"
+	<cstdio>
+
+1782878324 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\clientemanager.cpp
+	<iostream>
+	<cstring>
+	"ClienteManager.h"
+	"rlutil.h"
+	"MenuCliente.h"
+	"Utilidades.h"
+
+1782875172 c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\include\utilidades.h
+
+1782886221 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\compra.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Compra.h"
+	"ProveedorArchivo.h"
+	"ProveedorManager.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\compraarchivo.cpp
+	"CompraArchivo.h"
+	<cstdio>
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\compradetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"CompraDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\compradetallearchivo.cpp
+	"CompraDetalleArchivo.h"
+	<cstdio>
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\compramanager.cpp
+	<iostream>
+	<cstring>
+	"CompraManager.h"
+	"rlutil.h"
+	"Utilidades.h"
+	"ProveedorArchivo.h"
+	"EmpleadoArchivo.h"
+	"ProductoArchivo.h"
+	"Proveedor.h"
+	"Empleado.h"
+
+1782879051 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\empleado.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	"Empleado.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\empleadoarchivo.cpp
+	"EmpleadoArchivo.h"
+	<cstdio>
+
+1782884068 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\empleadomanager.cpp
+	<iostream>
+	"EmpleadoManager.h"
+	"rlutil.h"
+	"MenuEmpleado.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\fecha.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<limits>
+	"fecha.h"
+	"rlutil.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\informemanager.cpp
+	<iostream>
+	"InformeManager.h"
+	"rlutil.h"
+
+1782877796 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menucliente.cpp
+	<iostream>
+	"MenuCliente.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menucompra.cpp
+	<iostream>
+	"MenuCompra.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782878583 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuempleado.cpp
+	<iostream>
+	"MenuEmpleado.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuinforme.cpp
+	<iostream>
+	"MenuInforme.h"
+	"EmpleadoArchivo.h"
+	"ClienteArchivo.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuprincipal.cpp
+	<iostream>
+	"MenuPrincipal.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782876000 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuproducto.cpp
+	<iostream>
+	"MenuProducto.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuproveedor.cpp
+	<iostream>
+	"MenuProveedor.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782883739 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuservicio.cpp
+	<iostream>
+	"MenuServicio.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\menuventa.cpp
+	<iostream>
+	"MenuVenta.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\producto.cpp
+	<cstring>
+	<iostream>
+	<limits>
+	"Producto.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	<iomanip>
+	<sstream>
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\productoarchivo.cpp
+	"ProductoArchivo.h"
+	<cstdio>
+
+1782876719 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\productomanager.cpp
+	<iostream>
+	"ProductoManager.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+	"Utilidades.h"
+
+1782876923 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Proveedor.h"
+	"ProveedorArchivo.h"
+	"rlutil.h"
+
+1782875173 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\proveedorarchivo.cpp
+	"ProveedorArchivo.h"
+	<cstdio>
+
+1782877542 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\proveedormanager.cpp
+	<iostream>
+	<cstring>
+	"ProveedorManager.h"
+	"rlutil.h"
+	"MenuProveedor.h"
+	"Utilidades.h"
+
+1782884952 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\servicio.cpp
+	"Servicio.h"
+	"ProductoArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	<sstream>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\servicioarchivo.cpp
+	"ServicioArchivo.h"
+	<cstdio>
+
+1782883852 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\serviciomanager.cpp
+	<iostream>
+	<cstring>
+	"ServicioManager.h"
+	"rlutil.h"
+	"MenuServicio.h"
+	"Utilidades.h"
+	<algorithm>
+	"ServicioManager.h"
+	"rlutil.h"
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\utilidades.cpp
+	<iostream>
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\venta.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+	"Venta.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventaarchivo.cpp
+	"VentaArchivo.h"
+	<cstdio>
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventadetalle.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaDetalle.h"
+	"ProductoArchivo.h"
+	"rlutil.h"
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventadetallearchivo.cpp
+	"VentaDetalleArchivo.h"
+	<cstdio>
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventamanager.cpp
+	<iostream>
+	<cstring>
+	"VentaManager.h"
+	"ProductoArchivo.h"
+	"ClienteArchivo.h"
+	"EmpleadoArchivo.h"
+	"rlutil.h"
+	"MenuVenta.h"
+	"utilidades.h"
+
+1782886034 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventaservicio.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"VentaServicio.h"
+	"ServicioArchivo.h"
+	"ClienteArchivo.h"
+	"rlutil.h"
+
+1782875174 source:c:\users\xelere\desktop\sistema cerrajeria final 01-07-26\sistemacerrajeriav3\src\ventaservicioarchivo.cpp
+	"VentaServicioArchivo.h"
+	<cstdio>
+
